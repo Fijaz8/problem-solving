@@ -13,5 +13,6 @@ int main(){
        }
 
     }
+    printf("%d",hash[1]);
     return 0;
 }
